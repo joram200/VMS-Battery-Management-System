@@ -1,0 +1,30 @@
+\subsection{Product Overview}
+This paper provides a holistic overview of Li-ion battery technology and the complete scope of a \gls{bms}. It systematically covers core \gls{bms} functions critical to our project, such as cell condition monitoring, state estimation (SOC/SOH), charge/discharge control, protection circuitry, cell equalization, and thermal management. It is particularly valuable for understanding the interdependencies between different \gls{bms} subsystems and for identifying key challenges, such as managing temperature gradients and diagnosing faults, which are actively relevant to the harsh, high-vibration environment of a Formula SAE vehicle.
+
+\subsection{Stackholders}
+Our stakeholders include everyone who is directly or indirectly affected by the accumulator and \gls{bms} system. At the top level, we have our industry and university sponsors, who provide funding, facilities, and oversight, and care about safety, and reliability. The vehicle team are key users of our design: they integrate the pack into frame, rely on our interfaces, and depend on our documentation to build and service the system. Future student teams who will build, maintain, and possibly upgrade the pack are another important group, because our documentation will either make their work easier or harder.
+
+\subsection{Requirements}
+
+Must:
+\begin{itemize}
+	\item Continuously monitor all cell voltages and pack temperature.
+	\item Provide reliable overvoltage, undervoltage, and overcurrent protection.
+	\item Support both active and passive cell balancing.
+	\item Communicate with the ECU over the CAN bus.
+	\item Operate within SAE EV voltage limits and isolation standards.
+	\item Include a fail-safe shutdown or interlock function for critical faults.
+\end{itemize}
+
+Should:
+\begin{itemize}
+	\item Include onboard data logging capability.
+	\item Use modular architecture to scale for different battery pack sizes.
+	\item Support self-diagnostic startup and fault recovery routines.
+\end{itemize}
+
+May:
+\begin{itemize}
+	\item Include an integrated display or diagnostic interface for local readings.
+	\item Support wireless telemetry or USB debugging for testing.
+\end{itemize}

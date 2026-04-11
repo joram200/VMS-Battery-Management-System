@@ -1,0 +1,160 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "main.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "Section_4.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 17,
+                "EditorGroup": 0,
+                "FileName": "main.tex",
+                "FirstLine": 276,
+                "FoldedLines": "",
+                "Line": 66
+            },
+            {
+                "Col": 42,
+                "EditorGroup": 0,
+                "FileName": "glossary.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 3
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_1.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 15,
+                "EditorGroup": 0,
+                "FileName": "Section_2.tex",
+                "FirstLine": 50,
+                "FoldedLines": "",
+                "Line": 58
+            },
+            {
+                "Col": 13,
+                "EditorGroup": 0,
+                "FileName": "Section_3.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 29
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_4.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 1
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_5.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_6.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_7.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 1
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_8.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_9.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_10.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_11.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Section_12.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Appen_A.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Appen_B.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Appen_C.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "Appen_D.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": false
+    }
+}
